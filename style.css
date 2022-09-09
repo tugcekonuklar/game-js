@@ -3,6 +3,8 @@
     margin: 0;
 }
 
+ 
+/* Flappy */
 #game{
     width: 400px;
     height: 500px;
@@ -39,3 +41,5 @@
     top: 100px;
     border-radius: 50%;
 }
+
+/* Flappy */
